@@ -23,7 +23,7 @@
     "ru": {
       "TwoLetterISOLanguageName": "ru",
       "Name": "Русский",
-      "NotReadyWarning": "Этот перевод является неполным! Если вы выберете его, будут переведены только части приложения. Все, что не было переведено еще будет отображаться на английском языке."
+      "NotReadyWarning": "Этот перевод является неполным! Если вы выберете его, будет переведена только часть приложения. Отсутствующий перевод будет отображаться на Английском языке."
     }
   },
   "Translations": {
@@ -571,7 +571,7 @@
       "es": "Arsénico",
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Мышьяк"
     },
     "Articulation Motors": {
       "es": "Motores de Articulación",
@@ -919,7 +919,7 @@
       "es": "Hierro",
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Железо"
     },
     "Irregular Emission Data": {
       "es": "Datos de Emisión Irregulares",
@@ -1027,7 +1027,7 @@
       "es": "Níquel",
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Никель"
     },
     "Niobium": {
       "es": "Niobio",
@@ -1243,7 +1243,7 @@
       "es": "Azufre",
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Сера"
     },
     "Tagged Encryption Codes": {
       "es": "Códigos de Encriptación Marcados",
@@ -1345,7 +1345,7 @@
       "es": "Zinc",
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Цинк"
     },
     "Zirconium": {
       "es": "Circonio",
@@ -1435,19 +1435,19 @@
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Тип"
     },
     "Name": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Название"
     },
     "Progress": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Прогресс"
     },
     "Last update: ": {
       "es": null,
@@ -1513,7 +1513,7 @@
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": ": можно изготовить"
     },
     "Reset": {
       "es": null,
@@ -1555,19 +1555,19 @@
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Помощь"
     },
     "Quit": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Выход"
     },
     "OK": {
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Ок"
     },
     "Cancel": {
       "es": null,
@@ -1591,7 +1591,7 @@
       "es": null,
       "de": null,
       "fr": null,
-      "ru": null
+      "ru": "Ошибка"
     },
     "The requested shortcut ({0}) is invalid": {
       "es": null,
@@ -1657,7 +1657,7 @@
       "es": null,
       "de": null,
       "fr": "Tous",
-      "ru": null
+      "ru": "Всё"
     },
     "An error has been thrown by the application:": {
       "es": null,
